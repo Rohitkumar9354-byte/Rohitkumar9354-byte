@@ -1,101 +1,87 @@
-<div align="center">
+  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSIT%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=18" alt="Header banner" />
+# Hi 👋, I'm Rohit Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Kumar;Learning+DSA+and+Problem+Solving;Building+Web+Development+Projects;Preparing+for+Placements" alt="Typing animation" />
+### 💻 CSIT Student | Aspiring Software Developer
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Learning+DSA+and+Problem+Solving;Building+Web+Development+Projects;Preparing+for+Software+Developer+Placements" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Rohitkumar9354-byte&label=Profile%20Views&color=00C7FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Rohitkumar9354-byte?label=Followers&style=for-the-badge&color=00C7FF&logo=github" alt="Followers" />
+<p>
+  <a href="https://github.com/Rohitkumar9354-byte">
+    <img src="https://img.shields.io/badge/GitHub-Rohitkumar9354--byte-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Development-00C7FF?style=for-the-badge" alt="Focus" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech CSIT student at **GL Bajaj Institute of Technology and Management**
-- 💻 Learning **Data Structures and Algorithms** using C++
-- 🌐 Interested in **Web Development** and **Software Engineering**
-- 🚀 Building projects and improving my coding skills every day
-- 🎯 **Goal:** Become a Software Developer and secure a good placement
+- 🎓 I'm a B.Tech CSIT student at GL Bajaj Institute of Technology and Management.
+- 💻 Currently improving my Data Structures and Algorithms skills.
+- 🌐 Interested in Web Development and Software Engineering.
+- 🛠️ Building projects to solve real-world problems.
+- 🎯 Goal: Become a skilled Software Developer and secure a good placement.
+- ⚡ I believe in learning by building and improving every day.
 
-## 🔭 Currently Working On
-
-| Focus | Details |
-|:------|:--------|
-| 🧠 DSA | Arrays, Strings, Recursion, Linked Lists in C++ |
-| 🌐 Web Dev | HTML, CSS, JavaScript, React fundamentals |
-| 🗄️ Databases | MySQL queries and database design |
-| 🧰 Tools | Git and GitHub workflow |
-
-## 🛠️ Tech Stack
+## 🧑‍💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,mysql,git,github,vscode&perline=6" alt="My skills"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,mysql,git,github,vscode&perline=6" alt="Tech Stack" />
 </p>
 
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
+## 📌 Featured Projects
 
 ### 🌐 Portfolio Website
-My personal portfolio showcasing my skills, projects, and contact details.
+My personal portfolio showcasing my skills, projects, and certificates.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+🔗 [View Portfolio Repository](https://github.com/Rohitkumar9354-byte/Portfolio)
 
-</td>
-<td width="33%" valign="top">
+### 💡 LeetCode Practice
+My repository for practicing coding problems and improving DSA skills.
 
-### 💻 DSA Practice
-Collection of coding problems and solutions with clean C++ implementations.
+🔗 [View LeetCode Repository](https://github.com/Rohitkumar9354-byte/Leetcode-Question)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Practice-00C7FF?style=flat-square)
+## 📊 GitHub Statistics
 
-</td>
-<td width="33%" valign="top">
+<div align="center">
 
-### 📚 Online Book Store
-A static website project with a clean layout for browsing books.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohitkumar9354-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkumar9354-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=Rohitkumar9354-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rohitkumar9354-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkumar9354-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+## 🏆 My Coding Goals
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitkumar9354-byte&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+- [ ] Solve 300+ DSA problems.
+- [ ] Build 3+ practical projects.
+- [ ] Improve problem-solving skills.
+- [ ] Learn advanced web development.
+- [ ] Prepare for technical interviews.
 
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Rohitkumar9354-byte"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/ https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto: kumar9354223529@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Rohitkumar9354-byte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Replace the URL below with your actual LinkedIn profile URL -->
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### ✨ Learn Every Day. Build Every Day. Grow Every Day.
+### 💙 “Consistency beats talent when talent doesn't work consistently.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
+⭐ Thanks for visiting my profile!
 
 </div>
